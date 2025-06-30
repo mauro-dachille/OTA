@@ -1,1 +1,1 @@
-# OTA
+# Optical Time Algorithm (OTA)
