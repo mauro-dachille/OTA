@@ -1,5 +1,7 @@
 # Optical Time Algorithm (OTA)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15782831.svg)](https://doi.org/10.5281/zenodo.15782831)
+
 In "Configurable photonic simulator for quantum fields", we propose the Optical Time Algorithm (OTA) as a unified framework capable of simulating efficiently a large class of free quantum field dynamics using a single optical circuit design that separates the time from the Hamiltonian's structure.
 More precisely, while a fixed array of beam splitters followed by a single layer of squeezers implements a largely arbitrary coupling geometry, the dynamics is entirely encoded in a single layer of phase shifters. This facilitates the simulation of the non-equilibrium dynamics of various quantum field theories without the need to ever alter the experimental design. 
 
