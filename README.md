@@ -9,6 +9,8 @@ This repository includes two Mathematica notebooks:
 1. OTA.nb: it generates the optical parameters needed for a physical realization of the circuit (the only input needed for the script is the Hamiltonian matrix).
 2. Figures.nb: it contains the scripts producing figures 4, 5, 6, 7 and 10 of the paper. 
 
+Please, note that the later notebook is contained in the directory Figures, together with the files.wl used to generate the Figure 7 of the manuscript (see https://github.com/alexn2002/LoGIC for the code used to generate those data).
+
 If you want to add new features to these notebooks, feel free to suggest pull requests!
 
 ## Authors
